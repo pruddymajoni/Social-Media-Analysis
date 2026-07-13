@@ -17,6 +17,8 @@ The dataset also has many categorical variables that I will create dummy variabl
 H₀: The Total Engagement and Interaction of a post is not significantly influenced and dependent on the Source Type, Author Followers, and the Language of the post was made in. ​
 Ha: The Total Engagement and Interaction of a post is significantly influenced and independent of the Source Type, Author Followers, and language of the post was made in.​
 
+![image_alt](https://github.com/pruddymajoni/Social-Media-Analysis/blob/main/Results/Plot1.png?raw=true)
+
 # Results 
 We reject the null hypothesis and conclude that there is enough evidence to support the claim that Language, Plattform and Author Follower Count all affect the Total engagemnet of a post. 
 
