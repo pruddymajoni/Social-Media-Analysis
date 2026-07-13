@@ -19,6 +19,8 @@ Ha: The Total Engagement and Interaction of a post is significantly influenced a
 
 ![image_alt](https://github.com/pruddymajoni/Social-Media-Analysis/blob/main/Results/Plot1.png?raw=true)
 
+![image_alt](https://github.com/pruddymajoni/Social-Media-Analysis/blob/main/Results/Regression%20Analysis%20Stats.png?raw=true)
+
 # Results 
 We reject the null hypothesis and conclude that there is enough evidence to support the claim that Language, Plattform and Author Follower Count all affect the Total engagemnet of a post. 
 
